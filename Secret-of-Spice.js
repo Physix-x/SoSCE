@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Secrets of Spice (SOS)
 // @namespace    Cartel Empire
-// @version      1.0.0
+// @version      1.0.1
 // @description  A compilation of scripts made by Yinn
 // @author       Yinn [193] Jari [409]
 // @include      /https:\/\/cartelempire\.online\/?.*$/
@@ -12,6 +12,8 @@
 // @grant        GM_listValues
 // @grant        GM_addStyle
 // @run-at       document-end
+// @downloadURL  https://raw.githubusercontent.com/Physix-x/SoSCE/refs/heads/main/Secret-of-Spice.js
+// @updateURL    https://raw.githubusercontent.com/Physix-x/SoSCE/refs/heads/main/Secret-of-Spice.js
 // ==/UserScript==
 
 
