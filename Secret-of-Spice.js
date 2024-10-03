@@ -12,8 +12,8 @@
 // @grant        GM_listValues
 // @grant        GM_addStyle
 // @run-at       document-end
-// @downloadURL  https://raw.githubusercontent.com/Physix-x/SoSCE/refs/heads/main/Secret-of-Spice.js
-// @updateURL    https://raw.githubusercontent.com/Physix-x/SoSCE/refs/heads/main/Secret-of-Spice.js
+// @downloadURL  https://github.com/Physix-x/SoSCE/raw/refs/heads/main/Secret-of-Spice.js
+// @updateURL    https://github.com/Physix-x/SoSCE/raw/refs/heads/main/Secret-of-Spice.js
 // ==/UserScript==
 
 
