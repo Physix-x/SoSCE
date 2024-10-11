@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Secrets of Spice (SOS)
 // @namespace    Cartel Empire
-// @version      1.0.2
+// @version      1.0.3
 // @description  A compilation of scripts made by Yinn
 // @author       Yinn [193] Jari [409]
 // @include      /https:\/\/cartelempire\.online\/?.*$/
