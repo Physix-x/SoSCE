@@ -2,7 +2,7 @@
 // @name         Secrets of Spice (SOS)
 // @namespace    Cartel Empire
 // @version      1.2.6
-// @description  FUCK K9ER
+// @description  Jari has a banana brain
 // @author       Yinn [193] Zek [3369] Jari [409]
 // @include      /https:\/\/cartelempire\.online\/?.*$/
 // @icon         https://i.ibb.co/HPxTbv4/SOS.png
