@@ -6,6 +6,8 @@
 // @author       Yinn [193] Zek [3369] Jari [409]
 // @include      /https:\/\/cartelempire\.online\/?.*$/
 // @icon         https://i.ibb.co/HPxTbv4/SOS.png
+// @updateURL    https://raw.githubusercontent.com/Physix-x/SoSCE/refs/heads/main/SOS.user.js
+// @downloadURL  https://raw.githubusercontent.com/Physix-x/SoSCE/refs/heads/main/SOS.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
