@@ -5842,6 +5842,7 @@ class BetterButtons {
 			'a[href="/Cartel/Applications"]',
 			'a[href="/Cartel/Armory/BulkEditArmory"]',
 			'a[href="/Inbox/New"]',
+			`a[href="/Gallery/${user_id}"]`,
 		];
 
 		hrefButtons.forEach(selector => {
